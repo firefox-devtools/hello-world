@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:devtools-html/hello-world.git",
+  "author": "Jason Laster <jason.laster.11@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/dev-server.js"
+  },
+  "dependencies": {
+    "devtools-launchpad": "^0.0.20"
+  }
+}
