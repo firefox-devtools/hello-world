@@ -1,5 +1,7 @@
 ### Hello World
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devtools-html/hello-world.svg)](https://greenkeeper.io/)
+
 This project shows the simplest launchpad tool that can be built. Hopefully, we can use it to also make the launchpad setup a little simpler
 
 #### Bootstrap Steps
