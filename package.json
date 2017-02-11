@@ -9,6 +9,6 @@
     "start": "node bin/dev-server.js"
   },
   "dependencies": {
-    "devtools-launchpad": "^0.0.20"
+    "devtools-launchpad": "^0.0.41"
   }
 }
