@@ -6,9 +6,14 @@
   "author": "Jason Laster <jason.laster.11@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node bin/dev-server.js"
+    "start": "node bin/dev-server.js",
+    "test": "echo 'no tests'",
+    "update-yarn-lock-file": "update-yarn-lock-file"
   },
   "dependencies": {
     "devtools-launchpad": "^0.0.41"
+  },
+  "devDependencies": {
+    "circleci-update-yarn-lock": "^3.0.0"
   }
 }
